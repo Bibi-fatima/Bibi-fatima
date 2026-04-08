@@ -36,7 +36,7 @@
 <a href="https://instagram.com/bfn.visuals" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
 </a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank">
+<a href="https://www.linkedin.com/in/bibi-fatima-naaz" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
 </a>
 </p>
@@ -47,18 +47,36 @@
 
 <p align="left">
 
-<!-- Design -->
+<!-- UX / Design -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-
-<!-- Web -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-
-<!-- AI Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="ai" width="40" height="40"/>
-
 </p>
+
+---
+
+### 🤖 AI & Experimental Tools
+
+- Claude (AI-assisted development & interaction building)  
+- ChatGPT (ideation, structuring, problem-solving)  
+- UXPilot (UI generation & rapid prototyping)  
+- Google Stitch (AI-driven UI to code workflows)  
+- Adobe Express / Firefly (visual generation & assets)  
+
+---
+
+### ⚙️ Workflow & Automation
+
+- Make (Integromat) — automation workflows  
+- Zapier — no-code integrations  
+
+---
+
+### 🧠 Core Skills
+
+- User Research & UX Strategy  
+- Information Architecture & User Flows  
+- Interaction Design & Visual Design  
+- AI-assisted Product Design  
+- Rapid Prototyping & Experimental UI Systems  
 
 ---
 
