@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Bibi fatima</h1>
-<h3 align="center">a student developing into a coder</h3>
+<h3 align="center">a UI/UX Designer(SaaS) working at the intersection of AI and product</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibi-fatima&label=Profile%20views&color=0e75b6&style=flat" alt="bibi-fatima" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bibi-fatima" alt="bibi-fatima" /></a> </p>
 
-- 🌱 I’m currently learning about **DSA, cloud**
+- 🌱 Open to conversations with product teams, founders, and researchers thinking about AI transparency and explainability.
 
-- 📫 How to reach me **bbfatima0307@gmail.comneeds**
+- 📫 How to reach me **bbfatima0307@gmail.com**
 
-- ⚡ Fun fact **needs tea rather than coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
